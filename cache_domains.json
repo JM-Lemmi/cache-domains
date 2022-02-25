@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "apt",
+			"description": "Linux apt Package Repositories",
+			"domain_files": ["apt.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
