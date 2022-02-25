@@ -37,3 +37,4 @@ packages.hs-regensburg.de
 pubmirror.plutex.de
 mirror.pyratelan.org
 mirror.netcologne.de
+http.kali.org
